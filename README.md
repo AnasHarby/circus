@@ -14,16 +14,14 @@ Compete with a friend to get a higher score, try to catch three falling plates w
 * Choose from three different difficulty levels.
 
 ### In-Game Screenshots
-* <img src="https://github.com/AhmedWalidKamal/circus/blob/master/screenshots/Screenshot_1.png" height="400" />
-
-* <img src="https://github.com/AhmedWalidKamal/circus/blob/master/screenshots/Screenshot_2.png" height="400" />
-
-* <img src="https://github.com/AhmedWalidKamal/circus/blob/master/screenshots/Screenshot_3.png" height="400" />
+![img1](https://github.com/AhmedWalidKamal/circus/blob/master/screenshots/Screenshot_1.png)
+![img2](https://github.com/AhmedWalidKamal/circus/blob/master/screenshots/Screenshot_2.png)
+![img3](https://github.com/AhmedWalidKamal/circus/blob/master/screenshots/Screenshot_3.png)
 
 ### Credits
 * UI artwork is motivated by a previous work done by [AlamasB/FXTutorials](https://github.com/AlmasB/FXTutorials).
-* Main menu background by [Paper Childhood -- behance.com] (https://www.behance.net/gallery/18015159/Paper-Childhood).
-* Gameplay background by [Retro circus vector -- Vecteezy.com] (https://www.vecteezy.com/vector-art/83065-playing-retro-circus-vector).
-* [Gson] (https://github.com/google/gson) for JSON based saved files.
-* [Protocol Buffers] (https://github.com/google/protobuf) for Protocol Buffers based saved files.
-* [Apache Log4j 2] (https://logging.apache.org/log4j/2.x) for log files.
+* Main menu background by [Paper Childhood -- behance.com](https://www.behance.net/gallery/18015159/Paper-Childhood).
+* Gameplay background by [Retro circus vector -- Vecteezy.com](https://www.vecteezy.com/vector-art/83065-playing-retro-circus-vector).
+* [Gson](https://github.com/google/gson) for JSON based saved files.
+* [Protocol Buffers](https://github.com/google/protobuf) for Protocol Buffers based saved files.
+* [Apache Log4j 2](https://logging.apache.org/log4j/2.x) for log files.
